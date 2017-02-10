@@ -1,3 +1,6 @@
-´ó¼Òº®¼ÙÖ÷Òª×ö2¸ö¹¤×÷£¬
-1£©ÍõË«½¨£º°ÑSeeing 3D chairs: exemplar part-based 2D-3D alignment using a large dataset of CAD models ÕâÆªÂÛÎÄ¿´¶®£¬ÏàÓ¦matlab´úÂëÅÜÆğÀ´£¨https://github.com/mathieuaubry/seeing3Dchairs£©¡£È»ºó£¬»»³ÉÎÒÃÇµÄÊı¾İ£¨sofa£¬bed£¬tableµÈ£©£¬ÓÃseeing3DchairsµÄ´úÂëÑµÁ·£¬ÓÃÎÒÃÇpython´úÂëÊ¶±ğ¡£
-2£©°×Óñ£º°ÑHOG£«linear SVMµÄ·½·¨¿´¶®(https://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/)£¬°ÑObject Detection with Discriminatively Trained Part Based ModelsÕâÆªÂÛÎÄ¿´¶®£¨ÅäºÏÊÓÆµhttps://www.youtube.com/watch?v=2DihVLm8v38£©£¬ÏàÓ¦´úÂëÅÜÆğÀ´https://people.eecs.berkeley.edu/~rbg/latent/index.html£¨ÅäºÏ²©¿Í½âÊÍhttp://blog.csdn.net/tiandijun/article/details/50499457 
+å¤§å®¶å¯’å‡ä¸»è¦åš2ä¸ªå·¥ä½œï¼Œ
+1ï¼‰ç‹åŒå»ºï¼šæŠŠSeeing 3D chairs: exemplar part-based 2D-3D alignment using a large dataset of CAD models è¿™ç¯‡è®ºæ–‡çœ‹æ‡‚ï¼Œç›¸åº”matlabä»£ç è·‘èµ·æ¥ï¼ˆhttps://github.com/mathieuaubry/seeing3Dchairsï¼‰ã€‚ç„¶åï¼Œæ¢æˆæˆ‘ä»¬çš„æ•°æ®ï¼ˆsofaï¼Œbedï¼Œtableç­‰ï¼‰ï¼Œç”¨seeing3Dchairsçš„ä»£ç è®­ç»ƒï¼Œç”¨æˆ‘ä»¬pythonä»£ç è¯†åˆ«ã€‚
+2ï¼‰ç™½ç‰ï¼šæŠŠHOGï¼‹linear SVMçš„æ–¹æ³•çœ‹æ‡‚(https://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/)ï¼ŒæŠŠObject Detection with Discriminatively Trained Part Based Modelsè¿™ç¯‡è®ºæ–‡çœ‹æ‡‚ã€‚http://www.ics.uci.edu/~dramanan/papers/latentmix.pdf
+
+
+ï¼ˆé…åˆè§†é¢‘https://www.youtube.com/watch?v=2DihVLm8v38ï¼‰ï¼Œç›¸åº”ä»£ç è·‘èµ·æ¥https://people.eecs.berkeley.edu/~rbg/latent/index.htmlï¼ˆé…åˆåšå®¢è§£é‡Šhttp://blog.csdn.net/tiandijun/article/details/50499457 
