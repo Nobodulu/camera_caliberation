@@ -1,6 +1,7 @@
 大家寒假主要做2个工作，
 1）王双建：把Seeing 3D chairs: exemplar part-based 2D-3D alignment using a large dataset of CAD models 这篇论文看懂，相应matlab代码跑起来（https://github.com/mathieuaubry/seeing3Dchairs）。然后，换成我们的数据（sofa，bed，table等），用seeing3Dchairs的代码训练，用我们python代码识别。
-2）白玉：把HOG＋linear SVM的方法看懂(https://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/)，把Object Detection with Discriminatively Trained Part Based Models这篇论文看懂。http://www.ics.uci.edu/~dramanan/papers/latentmix.pdf
+2）白玉：把HOG＋linear SVM的方法看懂(https://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/)，
+把Object Detection with Discriminatively Trained Part Based Models这篇论文看懂。http://www.ics.uci.edu/~dramanan/papers/latentmix.pdf
 
-
-（配合视频https://www.youtube.com/watch?v=2DihVLm8v38），相应代码跑起来https://people.eecs.berkeley.edu/~rbg/latent/index.html（配合博客解释http://blog.csdn.net/tiandijun/article/details/50499457 
+（配合视频https://www.youtube.com/watch?v=2DihVLm8v38），相应代码跑起来https://people.eecs.berkeley.edu/~rbg/latent/index.html
+（配合博客解释http://blog.csdn.net/tiandijun/article/details/50499457 
