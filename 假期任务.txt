@@ -5,3 +5,5 @@
 
 （配合视频https://www.youtube.com/watch?v=2DihVLm8v38），相应代码跑起来https://people.eecs.berkeley.edu/~rbg/latent/index.html
 （配合博客解释http://blog.csdn.net/tiandijun/article/details/50499457 
+
+https://github.com/quantombone/exemplarsvm
